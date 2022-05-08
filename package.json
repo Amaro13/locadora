@@ -1,0 +1,23 @@
+{
+  "name": "bancodedados",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon -e js,html,css,ejs",
+    "start": "node index.js"
+  },
+  "author": "Amaro Ribeiro",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "ejs": "^3.1.7",
+    "express": "^4.18.0",
+    "pg": "^8.7.3",
+    "sequelize": "^6.19.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
