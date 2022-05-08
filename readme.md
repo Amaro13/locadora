@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img alt="stream.image" src="https://www.nicepng.com/png/full/138-1389136_live-stream-png-svg-free-library-logo-live.png" width="100%">
+  <img alt="stream.image" src="https://t.ctcdn.com.br/08S7otbDnUdCqxRhG-Zjr7kckuo=/660x0/smart/i477341.jpeg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
