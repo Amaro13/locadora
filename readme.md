@@ -38,7 +38,7 @@ Esse projeto foi desenvolvido para fins de aprendizado durante o curso de FullSt
 
 ## :information_source: Layout
 
-Você pode visualizar o layout do projeto através desse link: https://pokedex-blue-mvc.onrender.com/
+Você pode visualizar o layout do projeto através desse link:
 
 ## :memo: Licença
 
